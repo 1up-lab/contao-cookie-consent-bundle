@@ -1,0 +1,2 @@
+Contao Cookie Consent Bundle
+==============================
